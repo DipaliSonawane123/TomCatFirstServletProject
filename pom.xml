@@ -28,6 +28,6 @@
 
   </dependencies>
   <build>
-    <finalName>FirstServeletProject</finalName>
+    <finalName>FirstServletProject</finalName>
   </build>
 </project>
